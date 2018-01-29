@@ -1,0 +1,125 @@
+/* CSS designed by Shivani Sharma and Hannah Nguyen */
+
+/* Main */
+body {
+    margin: auto;
+    width: 60%;
+    border: thin solid black;
+    box-shadow: .1em .1em .1em;
+    background-image: url("https://i.pinimg.com/originals/28/a6/43/28a64350747f3ce29bf94f5a7a5509d2.jpg");
+    background-repeat: repeat-x;
+    background-color: black;
+}
+
+p {
+    font-family: Georgia serif;
+    font-size: 16pt;
+    padding: .5em;
+    margin: 0em;
+    background-image: url("https://images.template.net/wp-content/uploads/2015/08/Beautiful-Rough-Paper-Background-Download.png");
+}
+
+footer .small{
+    font-size: 8pt;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Goudy Old Style";
+    border-bottom: thin solid black;
+    background-image: url("https://images.template.net/wp-content/uploads/2015/08/Beautiful-Rough-Paper-Background-Download.png");
+    margin: 0em;
+}
+
+header {
+    
+}
+.center {
+    text-align: center;
+}
+
+figure {
+    background-image: url("https://images.template.net/wp-content/uploads/2015/08/Beautiful-Rough-Paper-Background-Download.png");
+    text-align: center;
+    margin: 0em;
+    padding: 1em;
+}
+
+figcaption {
+    font-family: Georgia serif;
+    font-style: italic;
+    
+}
+img {
+    max-width: 100%;
+    border: thin solid black;
+}
+.italics {
+    font-style: italic;
+}
+
+/* Navigation */
+a:link {
+    color: #fbfbd6;
+    text-decoration: none;
+    
+    
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav ol li{
+    display: inline-block;
+    list-style-type: none;
+    width: 33%;
+    text-align: center;
+}
+
+nav ol {
+    padding: 0em;
+}
+
+nav{
+    border-bottom: thin solid black; 
+    border-top: thin solid black;
+    background-image: url("https://webgradients.com/public/webgradients_png/036%20Zeus%20Miracle.png");
+    max-width: 100%;
+    
+}
+
+.activePage {
+    font-weight: bold;
+    text-decoration: underline;
+    color: white;
+}
+
+/* Form */
+form {
+    background-image: url("https://images.template.net/wp-content/uploads/2015/08/Beautiful-Rough-Paper-Background-Download.png");
+}
+/* Mistakes */
+
+#errors ol li{
+    color: crimson;
+}
+
+.mistake {
+    color: #ffffff; 
+    background-color: #e94249;
+    border: thin solid black;
+    text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+    color: crimson;
+    text-align: center;
+    margin: 0em;
+}
+
+div {
+    color: crimson;
+    padding: 1em;
+    background-image: url("https://images.template.net/wp-content/uploads/2015/08/Beautiful-Rough-Paper-Background-Download.png");
+}
